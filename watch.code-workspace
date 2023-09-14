@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"path": "../watch"
+	},
+	{
+		"path": "."
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "watch"
+  }
+}
